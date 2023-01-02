@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1672593573 source:c:\users\rad. ananta\documents\telkom university\semester 3\struktur data\praktikum\tubes\stackandqueue\main.cpp
+	"stackandqueue.cpp"
+
+1672593504 c:\users\rad. ananta\documents\telkom university\semester 3\struktur data\praktikum\tubes\stackandqueue\stackandqueue.h
+	<iostream>
+
+1672595740 c:\users\rad. ananta\documents\telkom university\semester 3\struktur data\praktikum\tubes\stackandqueue\stackandqueue.cpp
+	"stackandqueue.h"
+
